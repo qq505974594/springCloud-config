@@ -1,0 +1,2 @@
+# springCloud-config
+master
